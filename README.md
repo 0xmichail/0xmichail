@@ -6,6 +6,10 @@ I work in cybersecurity risk, GRC, and assurance.
 
 Most of my work sits between methodology, evidence, controls, and practical tooling. I am interested in how risk assessments can become more structured, traceable, and useful without removing human judgment from the process.
 
+## Selected work
+
+- [ToBeDecidedLater](https://github.com/0xmichail/ToBeDecidedLater) — early-stage research and engineering workspace for threat-informed, OSCAL-oriented cyber assurance.
+
 ## Current focus
 
 - cybersecurity risk assessment methodologies
@@ -27,7 +31,7 @@ I use GitHub mainly as a working space for small tools, research notes, and expe
 - OSCAL-based assessment ideas
 - local-first knowledge tools
 
-Some repositories are rough by design. I prefer keeping the thinking visible while an idea is still being shaped.
+Some repositories are intentionally exploratory: I use them to make reasoning, assumptions, and trade-offs visible while an idea is still being shaped.
 
 ## Background
 
