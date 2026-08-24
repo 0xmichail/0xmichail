@@ -9,7 +9,10 @@ I work in cybersecurity risk, GRC, and assurance.
   <img alt="GRC" src="https://img.shields.io/badge/GRC-222222?style=flat-square">
   <img alt="Assurance" src="https://img.shields.io/badge/Assurance-222222?style=flat-square">
   <img alt="Threat-informed" src="https://img.shields.io/badge/Threat--informed-222222?style=flat-square">
+  <img alt="Security as Code" src="https://img.shields.io/badge/Security%20as%20Code-222222?style=flat-square">
   <img alt="OSCAL" src="https://img.shields.io/badge/OSCAL-222222?style=flat-square">
+  <img alt="DORA" src="https://img.shields.io/badge/DORA-222222?style=flat-square">
+  <img alt="NIS2" src="https://img.shields.io/badge/NIS2-222222?style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown">
 </p>
