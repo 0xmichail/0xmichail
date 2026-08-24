@@ -41,3 +41,9 @@ I care about work that is:
 - structured enough to be repeated;
 - practical enough to be used;
 - honest enough to show uncertainty.
+
+## How I work with AI
+
+I use AI as an assistant for implementation, drafting, review, and structuring ideas.
+
+The problem framing, methodology, risk logic, validation, and final decisions remain human-owned.
