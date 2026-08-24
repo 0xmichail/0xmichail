@@ -29,11 +29,11 @@ Some repositories are rough by design. I prefer keeping the thinking visible whi
 
 ## Background
 
-Cybersecurity Risk & Compliance specialist with an engineering mindset, a mathematics background, and a strong interest in systems, structure, and decision-making.
+Cybersecurity Risk & Compliance specialist with a diploma in Electrical and Computer Engineering, an M.Sc. in Applied Mathematics, and experience across banking, telecommunications, and technology environments.
 
-I like both the governance side of security and the practical side: building small tools, understanding how systems fail, and using CTF-style practice to keep technical intuition alive.
+My path includes hands-on RF/IP network engineering, network operations leadership, security governance, and previous CISO responsibility. I like both the governance side of security and the practical side: building small tools, understanding how systems fail, and using CTF-style practice to keep technical intuition alive.
 
-Over time, I am also interested in the leadership layer of security: how technical risk, regulatory pressure, business constraints, and evidence come together in decisions that a security leader or CISO has to own.
+I am interested in the leadership layer of security as well: how technical risk, regulatory pressure, business constraints, and evidence come together in decisions that security leaders and CISOs have to own.
 
 I care about work that is:
 
