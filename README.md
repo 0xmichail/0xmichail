@@ -29,7 +29,11 @@ Some repositories are rough by design. I prefer keeping the thinking visible whi
 
 ## Background
 
-Cybersecurity Risk & Compliance specialist with a mathematics background and a strong interest in systems, structure, and decision-making.
+Cybersecurity Risk & Compliance specialist with an engineering mindset, a mathematics background, and a strong interest in systems, structure, and decision-making.
+
+I like both the governance side of security and the practical side: building small tools, understanding how systems fail, and using CTF-style practice to keep technical intuition alive.
+
+Over time, I am also interested in the leadership layer of security: how technical risk, regulatory pressure, business constraints, and evidence come together in decisions that a security leader or CISO has to own.
 
 I care about work that is:
 
