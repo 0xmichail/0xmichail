@@ -4,6 +4,16 @@
 
 I work in cybersecurity risk, GRC, and assurance.
 
+<p>
+  <img alt="Cyber Risk" src="https://img.shields.io/badge/Cyber%20Risk-222222?style=flat-square">
+  <img alt="GRC" src="https://img.shields.io/badge/GRC-222222?style=flat-square">
+  <img alt="Assurance" src="https://img.shields.io/badge/Assurance-222222?style=flat-square">
+  <img alt="Threat-informed" src="https://img.shields.io/badge/Threat--informed-222222?style=flat-square">
+  <img alt="OSCAL" src="https://img.shields.io/badge/OSCAL-222222?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown">
+</p>
+
 Most of my work sits between methodology, evidence, controls, and practical tooling. I am interested in how risk assessments can become more structured, traceable, and useful without removing human judgment from the process.
 
 ## Selected work
