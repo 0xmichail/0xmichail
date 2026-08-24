@@ -1,16 +1,10 @@
 # Michalis
 
+*This profile and the repositories linked from it reflect my personal research, ideas, experiments, and opinions, published in a personal capacity.*
+
 I work in cybersecurity risk, GRC, and assurance.
 
 Most of my work sits between methodology, evidence, controls, and practical tooling. I am interested in how risk assessments can become more structured, traceable, and useful without removing human judgment from the process.
-
-## Personal disclaimer
-
-This profile and the repositories linked from it reflect my personal research, ideas, experiments, and opinions.
-
-They do not represent, imply, or communicate the views, positions, methodologies, policies, tools, data, decisions, or official statements of any current or former employer, client, customer, vendor, institution, or affiliated organization.
-
-I publish and maintain this work in a personal capacity.
 
 ## Current focus
 
