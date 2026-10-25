@@ -1,68 +1,29 @@
 # Michalis
 
-*This profile and the repositories linked from it reflect my personal research, ideas, experiments, and opinions, published in a personal capacity.*
+I work in cybersecurity risk, governance, and assurance, with a background in engineering and applied mathematics.
 
-I work in cybersecurity risk, GRC, and assurance.
+My interests centre on how technical threats, controls, and evidence inform decisions—and how to make that reasoning clearer, more traceable, and useful in practice.
 
-<p>
-  <img alt="Cyber Risk" src="https://img.shields.io/badge/Cyber%20Risk-222222?style=flat-square">
-  <img alt="GRC" src="https://img.shields.io/badge/GRC-222222?style=flat-square">
-  <img alt="Assurance" src="https://img.shields.io/badge/Assurance-222222?style=flat-square">
-  <img alt="Threat-informed" src="https://img.shields.io/badge/Threat--informed-222222?style=flat-square">
-  <img alt="Security as Code" src="https://img.shields.io/badge/Security%20as%20Code-222222?style=flat-square">
-  <img alt="OSCAL" src="https://img.shields.io/badge/OSCAL-222222?style=flat-square">
-  <img alt="DORA" src="https://img.shields.io/badge/DORA-222222?style=flat-square">
-  <img alt="NIS2" src="https://img.shields.io/badge/NIS2-222222?style=flat-square">
-  <img alt="Python" src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown">
-</p>
+This GitHub profile contains personal projects and experiments. Each project should be read according to its documented scope and validation status.
 
-Most of my work sits between methodology, evidence, controls, and practical tooling. I am interested in how risk assessments can become more structured, traceable, and useful without removing human judgment from the process.
+## Selected projects
 
-## Selected work
+- **[Noema Prompts](https://github.com/0xmichail/noema-prompts)** — Seven reusable prompts for critical thinking, evidence-based answers, verification, focused research, and careful implementation. Includes usage guidance, examples, and limitations; performance benefits have not been benchmarked.
 
-- [ToBeDecidedLater](https://github.com/0xmichail/ToBeDecidedLater) — early-stage research and engineering workspace for threat-informed, OSCAL-oriented cyber assurance.
+- **[ToBeDecidedLater](https://github.com/0xmichail/ToBeDecidedLater)** — An early research prototype exploring structured, threat-informed cyber risk scenarios. The public repository contains one experimental scenario, schemas, supporting code, and tests. It is not a validated risk assessment methodology or an operational decision tool.
 
-## Current focus
+## Background and interests
 
-- cybersecurity risk assessment methodologies
-- ICT and third-party risk
-- incident response playbooks
-- audit-ready evidence flows
-- threat-informed risk scenarios
-- NIS2, DORA, ISO 27001, and operational resilience
-- AI-assisted, human-owned cyber risk work
+My experience spans network engineering, operations leadership, security governance, and cybersecurity risk and compliance, including previous CISO responsibility.
 
-## Things I am building or exploring
+I hold a diploma in Electrical and Computer Engineering and an M.Sc. in Applied Mathematics. My interests include ICT and third-party risk, operational resilience, incident response, and the connection between assessment evidence and management decisions.
 
-I use GitHub mainly as a working space for small tools, research notes, and experiments around:
+## How I work
 
-- cyber risk assessment as code
-- incident response workflows
-- assurance and evidence management
-- MITRE ATT&CK / D3FEND mappings
-- OSCAL-based assessment ideas
-- local-first knowledge tools
+I value explicit assumptions, reviewable evidence, proportionate conclusions, and clear distinctions between concepts, implemented features, and validated results.
 
-Some repositories are intentionally exploratory: I use them to make reasoning, assumptions, and trade-offs visible while an idea is still being shaped.
+I use AI to assist with drafting, implementation, and review. Problem framing, methodology choices, risk judgment, and final decisions remain my responsibility.
 
-## Background
+---
 
-Cybersecurity Risk & Compliance specialist with a diploma in Electrical and Computer Engineering, an M.Sc. in Applied Mathematics, and experience across banking, telecommunications, and technology environments.
-
-My path includes hands-on RF/IP network engineering, network operations leadership, security governance, and previous CISO responsibility. I like both the governance side of security and the practical side: building small tools, understanding how systems fail, and using CTF-style practice to keep technical intuition alive.
-
-I am interested in the leadership layer of security as well: how technical risk, regulatory pressure, business constraints, and evidence come together in decisions that security leaders and CISOs have to own.
-
-I care about work that is:
-
-- clear enough to be reviewed;
-- structured enough to be repeated;
-- practical enough to be used;
-- honest enough to show uncertainty.
-
-## How I work with AI
-
-I use AI as an assistant for implementation, drafting, review, and structuring ideas.
-
-The problem framing, methodology, risk logic, validation, and final decisions remain human-owned.
+Published in a personal capacity. These projects and views do not represent any current or former employer or client.
